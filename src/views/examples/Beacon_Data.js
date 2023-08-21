@@ -29,7 +29,7 @@ const Beacon_Data_Page = () => {
               className={activeTab === "1" ? "active" : ""}
               onClick={() => toggleTab("1")}
             >
-              Data!
+              Data
             </NavLink>
           </NavItem>
           <NavItem>
