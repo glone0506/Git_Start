@@ -37,7 +37,7 @@ const Beacon_Data_Page = () => {
               className={activeTab === "2" ? "active" : ""}
               onClick={() => toggleTab("2")}
             >
-              Maps
+              Maps!!!!
             </NavLink>
           </NavItem>
         </Nav>
